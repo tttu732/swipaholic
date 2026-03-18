@@ -3,40 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Swipaholic Privacy Policy</title>
-
-<style>
-body{
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-    max-width: 800px;
-    margin: auto;
-    padding: 40px 20px;
-    line-height: 1.7;
-    color:#333;
-}
-
-h1{
-    border-bottom:2px solid #eee;
-    padding-bottom:10px;
-}
-
-h2{
-    margin-top:35px;
-}
-
-ul{
-    margin-left:20px;
-}
-
-a{
-    color:#007AFF;
-    text-decoration:none;
-}
-
-a:hover{
-    text-decoration:underline;
-}
-</style>
 </head>
 
 <body>
