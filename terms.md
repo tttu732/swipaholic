@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Swipaholic Privacy Policy</title>
+
+<style>
+body{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+    line-height: 1.7;
+    color:#333;
+}
+
+h1{
+    border-bottom:2px solid #eee;
+    padding-bottom:10px;
+}
+
+h2{
+    margin-top:35px;
+}
+
+ul{
+    margin-left:20px;
+}
+
+a{
+    color:#007AFF;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Terms of Use</h1>
+
+<p><strong>Last Updated:</strong> 2026-03-14</p>
+
+<h2>1. Acceptance of Terms</h2>
+<p>
+By using the Swipaholic mobile application, you agree to these Terms of Use.
+If you do not agree, please do not use the application.
+</p>
+
+<h2>2. Subscription</h2>
+<p>
+The app may offer auto-renewable subscriptions.
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+Payment will be charged to your Apple ID account.
+</p>
+
+<h2>3. Cancellation</h2>
+<p>
+Users can manage or cancel subscriptions through their Apple ID account settings.
+</p>
+
+<h2>4. Privacy</h2>
+<p>
+Please review our Privacy Policy to understand how we collect and use information.
+</p>
+
+<h2>5. Changes</h2>
+<p>
+We may update these Terms of Use from time to time.
+</p>
+
+<h2>6. Contact</h2>
+<p>
+If you have questions, please contact the developer.
+</p>
+
+<h2>Apple Standard EULA</h2>
+<p>
+This app also follows Apple's standard End User License Agreement:
+<br>
+<a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</a>
+</p>
+
+</body>
+</html>
