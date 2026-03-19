@@ -1,57 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+# Terms of Use
 
-<body>
+**Last Updated:** 2026-03-14
 
-<h1>Terms of Use</h1>
-
-<p><strong>Last Updated:</strong> 2026-03-14</p>
-
-<h2>1. Acceptance of Terms</h2>
-<p>
-By using the Swipaholic mobile application, you agree to these Terms of Use.
+## 1. Acceptance of Terms
+By using the Swipaholic mobile application, you agree to these Terms of Use.  
 If you do not agree, please do not use the application.
-</p>
 
-<h2>2. Subscription</h2>
-<p>
-The app may offer auto-renewable subscriptions.
-Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+## 2. Subscription
+The app may offer auto-renewable subscriptions.  
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.  
 Payment will be charged to your Apple ID account.
-</p>
 
-<h2>3. Cancellation</h2>
-<p>
+## 3. Cancellation
 Users can manage or cancel subscriptions through their Apple ID account settings.
-</p>
 
-<h2>4. Privacy</h2>
-<p>
+## 4. Privacy
 Please review our Privacy Policy to understand how we collect and use information.
-</p>
 
-<h2>5. Changes</h2>
-<p>
+## 5. Changes
 We may update these Terms of Use from time to time.
-</p>
 
-<h2>6. Contact</h2>
-<p>
+## 6. Contact
 If you have questions, please contact the developer.
-</p>
 
-<h2>Apple Standard EULA</h2>
-<p>
-This app also follows Apple's standard End User License Agreement:
-<br>
-<a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</a>
-</p>
+---
 
-</body>
-</html>
+## Apple Standard EULA
+This app also follows Apple's standard End User License Agreement:  
+[https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
