@@ -1,132 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+# Swipaholic Privacy Policy
 
-<h1>Swipaholic Privacy Policy</h1>
+**Last Updated:** 2026-03-14
 
-<p><strong>Last Updated:</strong> 2026-03-14</p>
+## 1. Introduction
+This Privacy Policy explains how information is handled in the mobile application “Swipaholic” (the “App”).
 
-<h2>1. Introduction</h2>
-<p>
-This Privacy Policy explains how information is handled in the mobile application
-<strong>“Swipaholic”</strong> (the “App”).
-</p>
+## 2. Information We Collect
+The App collects the following information.
 
-<h2>2. Information We Collect</h2>
-<p>The App collects the following information.</p>
+### Automatically Collected Information
+- **Device Identifier (Random UUID)**  
+  A randomly generated UUID created within the app for leaderboard functionality.  
+  It is not linked to Apple ID or any device-specific identifier.
 
-<h3>Automatically Collected Information</h3>
+- **Game Data (Level, Score, Play Days)**  
+  This data may be sent to the server for leaderboard display.
 
-<ul>
-<li>
-<strong>Device Identifier (Random UUID)</strong><br>
-A randomly generated UUID created within the app for leaderboard functionality.
-It is not linked to Apple ID or any device-specific identifier.
-</li>
+- **Nickname**  
+  A name optionally set by the user for leaderboard display.
 
-<li>
-<strong>Game Data (Level, Score, Play Days)</strong><br>
-This data may be sent to the server for leaderboard display.
-</li>
+### Information We Do NOT Collect
+- Personal information such as name, email address, or phone number  
+- Location information  
+- Contacts, photos, or other data stored on the user’s device  
 
-<li>
-<strong>Nickname</strong><br>
-A name optionally set by the user for leaderboard display.
-</li>
-</ul>
-
-<h3>Information We Do NOT Collect</h3>
-
-<ul>
-<li>Personal information such as name, email address, or phone number</li>
-<li>Location information</li>
-<li>Contacts, photos, or other data stored on the user’s device</li>
-</ul>
-
-<h2>3. Advertising</h2>
-
-<p>
-The App displays advertisements using <strong>Google AdMob</strong>.
+## 3. Advertising
+The App displays advertisements using Google AdMob.  
 AdMob may collect device identifiers and usage data for advertising purposes.
-</p>
 
-<p>
-For more information, please refer to Google's Privacy Policy:
-<br>
-<a href="https://policies.google.com/privacy" target="_blank">
-https://policies.google.com/privacy
-</a>
-</p>
+For more information, please refer to Google's Privacy Policy:  
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-<p>
-On <strong>iOS 14.5 and later</strong>, the App will request permission for tracking through Apple's
-<strong>App Tracking Transparency (ATT)</strong> framework.
-</p>
+On iOS 14.5 and later, the App will request permission for tracking through Apple's App Tracking Transparency (ATT) framework.
 
-<h2>4. Data Storage</h2>
-
-<p>
-Leaderboard data is stored using <strong>Supabase</strong>, a cloud database service.
+## 4. Data Storage
+Leaderboard data is stored using Supabase, a cloud database service.  
 Appropriate security measures are implemented to protect stored data.
-</p>
 
-<h2>5. Purpose of Data Use</h2>
+## 5. Purpose of Data Use
+The collected data is used only for the following purposes:
+- Providing leaderboard functionality  
+- Saving game progress  
+- Displaying advertisements  
 
-<p>The collected data is used only for the following purposes:</p>
+## 6. Sharing with Third Parties
+Collected data is not shared with third parties, except for advertising services such as Google AdMob.
 
-<ul>
-<li>Providing leaderboard functionality</li>
-<li>Saving game progress</li>
-<li>Displaying advertisements</li>
-</ul>
+## 7. Data Deletion
+Users can delete local game data using the “Data Reset” feature within the App.
 
-<h2>6. Sharing with Third Parties</h2>
+If you would like to request deletion of leaderboard data stored on the server, please contact us using the information below.
 
-<p>
-Collected data is not shared with third parties, except for advertising services such as
-<strong>Google AdMob</strong>.
-</p>
-
-<h2>7. Data Deletion</h2>
-
-<p>
-Users can delete local game data using the <strong>“Data Reset”</strong> feature within the App.
-</p>
-
-<p>
-If you would like to request deletion of leaderboard data stored on the server,
-please contact us using the information below.
-</p>
-
-<h2>8. Children's Privacy</h2>
-
-<p>
+## 8. Children's Privacy
 The App does not knowingly collect personal information from children under the age of 13.
-</p>
 
-<h2>9. Changes to This Policy</h2>
-
-<p>
-This Privacy Policy may be updated without prior notice.
+## 9. Changes to This Policy
+This Privacy Policy may be updated without prior notice.  
 Any changes will be announced within the App or on this page.
-</p>
 
-<h2>10. Contact</h2>
-
-<p>
+## 10. Contact
 If you have any questions about this Privacy Policy, please contact us at:
-</p>
 
-<p>
-<strong>Email:</strong><br>
-<a href="mailto:swipaholic.app@gmail.com">
-swipaholic.app@gmail.com
-</a>
-</p>
-
-</body>
-</html>
+**Email:**  
+[swipaholic.app@gmail.com](mailto:swipaholic.app@gmail.com)
